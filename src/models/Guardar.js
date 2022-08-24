@@ -14,4 +14,4 @@ const Educacion = new mongoose.Schema({
 
 const Guardar = mongoose.model('Guardar', DataSchema) 
 
-export default Guardar
+export default Guardar  
